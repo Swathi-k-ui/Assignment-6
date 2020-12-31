@@ -1,0 +1,21 @@
+1) int maxEle; 
+    void getMax() 
+    { 
+        if (s.empty()) 
+            System.out.print("Stack is empty\n");  
+        else
+            System.out.print("Maximum Element in" +  
+                        "the stack is: "+maxEle + "\n"); 
+    } 
+
+   
+2)  int minEle;
+   void getMin() 
+    { 
+        if (s.isEmpty()) 
+            System.out.println("Stack is empty"); 
+        else
+            System.out.println("Minimum Element in the " + 
+                               " stack is: " + minEle); 
+    } 
+  
